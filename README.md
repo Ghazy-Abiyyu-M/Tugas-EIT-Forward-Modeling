@@ -25,7 +25,7 @@ Proyek ini dikembangkan sebagai bagian dari Tugas Mata Kuliah **Teknik Tomografi
 ## 📸 Tampilan Aplikasi
 
 
-![Screenshot Aplikasi](link_gambar_screenshot_anda_disini.png)
+![Screenshot Aplikasi](https://github.com/Ghazy-Abiyyu-M/Tugas-EIT-Forward-Modeling/blob/main/simulasi.jpeg)
 
 ---
 
